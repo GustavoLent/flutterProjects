@@ -1,3 +1,10 @@
+# Código para iniciar estudos em Cubit
+A documentação abaixo foi escrita por quem desenvolveu o código base que segui, sendo que foram deixados TODO's que conduziam o uso do Cubit.
+
+Também há o tutorial em vídeo: https://www.youtube.com/watch?v=e6x41c2fY7w
+
+# -----------------------------------------------
+
 [![Buy us a coffee](https://img.shields.io/badge/Buy%20us%20a%20coffee-Thanks-green?style=flat)](https://www.buymeacoffee.com/sBGXj7Pl4)
 
 # Tutorial for State Management
