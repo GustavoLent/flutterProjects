@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:login_doglife/pages/login.page.dart';
 
 void main() {
   runApp(MyApp());
@@ -12,9 +13,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Dog Life',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.deepOrange,
       ),
-      home: LoginPage(title: 'Flutter Demo Home Page'),
+      home: LoginPage(),
     );
   }
 }
